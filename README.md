@@ -1,3 +1,7 @@
+
+
+https://github.com/kiransindam/Diabetes-Prediction-Model/assets/101730779/52783ca2-3e7e-4122-a5e5-0f7230408d50
+
 # Diabetes-Prediction-Model
  This repository contains the code and data for a machine learning model that predicts the likelihood of diabetes in patients based on their health data. By analyzing factors such as age, BMI, glucose levels, and blood pressure, the model provides a prediction of whether a patient is likely to develop diabetes in the future.
 The code is written in Python and uses various libraries such as scikit-learn and pandas for data processing and model training. The data used to train and test the model is included in the repository, along with Jupyter notebooks that demonstrate the model's performance.
